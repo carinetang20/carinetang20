@@ -40,4 +40,4 @@ if (curiosity) { build(); innovate(); explore(); } – Coding the future, one pr
 - 💻 **Coding & Web Development** – I love building interactive UIs and experimenting with React projects.
 - 🏃‍♀️ **Cardio & Fitness** – Running, HIIT workouts, hiking and staying active keep me energized! 💓
 - 🏀🏸🏃‍♀️ **Active Sports** – I enjoy playing basketball, badminton, soccer and staying active! 
-- - 🌍 **Travelling** – Exploring new places, foods, and traditions is always exciting.
+- 🌍 **Travelling** – Exploring new places, foods, and traditions is always exciting.

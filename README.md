@@ -35,12 +35,6 @@ if (curiosity) { build(); innovate(); explore(); } – Coding the future, one pr
 - JavaScript and web development concepts
 - Git/GitHub workflows
 
-- ## 📫 How to Reach Me
--->
-
-## 😄 Pronouns
-- She/Her
-
 ## 🌟 My Interests
 
 - 💻 **Coding & Web Development** – I love building interactive UIs and experimenting with React projects.

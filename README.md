@@ -5,8 +5,6 @@ if (curiosity) { build(); innovate(); explore(); } – Coding the future, one pr
 
 
 
-[(https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)---](https://camo.githubusercontent.com/a25a6d2e5f2381170a57515f95fc765df2992ef3b65d13083c5aa73f88d98c10/68747470733a2f2f692e696d6775722e636f6d2f4d764d785131612e676966)
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React, Vite  

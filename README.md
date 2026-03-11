@@ -3,6 +3,8 @@
 
 if (curiosity) { build(); innovate(); explore(); } – Coding the future, one project at a time. 💻
 
+
+https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html
 ---
 
 ## 🛠️ Tech Stack

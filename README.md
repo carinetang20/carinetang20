@@ -3,18 +3,18 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**: HTML, CSS, JavaScript, React, Vite, Bootstrap, Tailwind CSS
-**Backend**: Node.js, Express.js, MongoDB, PHP (Laravel), Ruby on Rails, Java, C++
-**Databases**: MongoDB, MySQL
-**Tools & Platforms**: Git, GitHub, VS Code, Postman, Docker
-**API & Testing**: REST APIs, Postman
-**Version Control**: Git, GitHub
-**Build Tools**: Vite, Webpack (learning) 
-**Authentication**: JWT, Firebase Auth
-**Cloud**: Firebase, basic AWS (S3 / hosting)
-**State Management**: Redux, Context API
-**Deployment**: Netlify, Vercel
-**UI Libraries**: Material UI (MUI), ShadCN UI
+- **Frontend**: HTML, CSS, JavaScript, React, Vite, Bootstrap, Tailwind CSS
+- **Backend**: Node.js, Express.js, MongoDB, PHP (Laravel), Ruby on Rails, Java, C++
+- **Databases**: MongoDB, MySQL
+- **Tools & Platforms**: Git, GitHub, VS Code, Postman, Docker
+- **API & Testing**: REST APIs, Postman
+- **Version Control**: Git, GitHub
+- **Build Tools**: Vite, Webpack (learning) 
+- **Authentication**: JWT, Firebase Auth
+- **Cloud**: Firebase, basic AWS (S3 / hosting)
+- **State Management**: Redux, Context API
+- **Deployment**: Netlify, Vercel
+- **UI Libraries**: Material UI (MUI), ShadCN UI
 
 ---
 

@@ -51,14 +51,7 @@
 
 ## Life Outside Tech
 - **Cardio & Fitness** – Running, HIIT workouts, hiking and staying active keep me energized! 
-- **Active Sports** – I enjoy playing basketball, badminton, soccer and staying active! 
 - **Travelling & Exploring** – Exploring new places, foods, and traditions is always exciting.
-- **Photography & Aesthetics** – Capturing moments, and creative visuals interests me.
-- **Movies & Series** – Enjoy exploring different genres and storytelling styles.
-- **Gaming & Entertainment** – Enjoy playing light and casual games occasionally to relax and unwind.
 - **Nature & Scenery** – Love peaceful views, sunsets, and outdoor photography.
-- **Interior & Aesthetics** – Interested in interior design, room styling, and creating clean, cozy, and aesthetic spaces.
-- **Content Creation** – Interested in making aesthetic photos and short-form content
-- **Night Drives / Night Walks** – Appreciate quiet night-time vibes
 - **Animal Lover** – Enjoy the company of pets and animals.
 - **Self-Improvement & Productivity** – Interested in growth, routines, and learning strategies.
